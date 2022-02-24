@@ -1,3 +1,4 @@
+Python==3.9.7
 Sqlalchemy==1.4.27
 pandas==1.4.1
 Pandas-datareader==0.10.0
